@@ -7,3 +7,4 @@ if(char.isalpha()):
 else:
 
     print "No"
+  
