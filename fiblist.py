@@ -17,3 +17,5 @@ for x in range(0,21):
     list=[c]
 
     print list
+    
+    
